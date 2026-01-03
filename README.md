@@ -210,7 +210,7 @@ seaborn>=0.11.0
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Davlat Eshnazarov**
 - Course: Artificial Intelligence
 - Assignment: 7 - Fashion MNIST Comparison
 
@@ -225,5 +225,6 @@ MIT License - See LICENSE file for details
 - Course instructor and materials
 
 ---
+
 
 **Note:** The exact accuracy values may vary slightly between runs due to random initialization, but the pattern (Simple < 93%, Advanced >= 93%) remains consistent.
